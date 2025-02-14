@@ -1,0 +1,8 @@
+"resumen U3" 
+En la unidad 3 vimos lo que son los controladores de versiones y como funcionan, principalmente vimos el programa GIT
+el cual se centra en los repositorios, este tema también es muy interesante ya que nos muestra la forma que podemos tener 
+almacenados nuestros códigos en la pagina de GitHub el cual mantiene las versiones de nuestro código, y al mismo tiempo
+versiones de cada una donde muestran los cambios que le realizamos a este.
+
+No tuve muchos problemas con este tema ya que es muy fácil de manejar y usar, simplemente hay que prestar mucha atención a
+cada comando que se explica.

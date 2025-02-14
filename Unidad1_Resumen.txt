@@ -1,0 +1,5 @@
+"resumen U1" 
+En la unidad 1 vimos temas como el lenguaje binario y el como se realiza, también lo que son los algoritmos, la lógica de las computadoras, también las bases de la programación y los editores de texto que podemos usar.
+
+Tuve problemas con el sistema binario, mas que nada fue para las conversiones de las letras a su lenguaje binario, pero ya 
+luego de agarrarle la maña se volvió fácil.

@@ -1,0 +1,8 @@
+"resumen U2" 
+En la unidad 2 vimos los conceptos básicos de la programación, además de los tipos de datos y operadores que cada
+lenguaje tiene, y también el mismo caso con las estructuras de control de condiciones y de bucles, muy interesantes
+estos temas ya que son fundamentales para iniciar como programador.
+
+Tuve problemas con la actividad 2 y extra de esa unidad, mas que nada fue por que entraba en un entorno de
+programación o lenguaje nuevo como lo es JavaScript pero después de investigar mas a profundo de este lenguaje
+y dedicarle mas tiempo de practica logre realizar ambos ejercicios.
